@@ -20,20 +20,15 @@ Examples:
 
 ## Recent Features
 
+- XHGui performance profiling
+- "Generic" webserver type, used for things like FrankenPHP and native node.js apps
+- Add-on registry: https://addons.ddev.com/ (Showing 165 add-ons)
+- Add-ons written in PHP
+- `ddev-upsun` add-on
+- `ddev launch` options: `ddev launch <url>`, `ddev launch :port`, `ddev launch /uri`
+- `ddev_version_constraint` config
+- Windows installer for WSL2 and Traditional Windows
+- Even more Docker providers (Rancher Desktop for Windows, Docker Desktop for Linux, etc)
+- MySQL 8.4, MariaDB 11.8, Postgres 18
+- 
 
----
-
-## Slide 4
-
-> Add quotes or callouts
-
----
-
-## Next Steps
-
-Edit this file (`slides/presentation.md`) to create your presentation!
-
-- Use `---` to create new slides
-- Use `--` for vertical slides
-- Add images from the `images/` directory
-- See [reveal.js documentation](https://revealjs.com/) for more features
