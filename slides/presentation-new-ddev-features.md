@@ -47,8 +47,14 @@
 - MySQL 8.4, MariaDB 11.8, Postgres 18
 - `ddev delete images` does better cleanup
 - Add-ons can include other add-ons.
+- Smaller web image
 
 ---
+
+## Features you might not know about
+
+- `ddev share`
+- Casual hosting (real hosting with DDEV)
 
 ## Governance
 
