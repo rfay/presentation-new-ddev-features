@@ -11,6 +11,11 @@
   - New Database versions like PostGreSQL 18 show up in DDEV within days of release.
 - Support: We think we have world-class support, better than almost any commercial organization.
   - Support requests and bugs are responded to quickly in Discord and GitHub.
+
+---
+
+### Contributor Training
+
 - Contributor Training: We do live contributor trainings regularly and love to have your participation. These are recorded and blogged. Sign up for the monthly newsletter to make sure you know about them.
 
 ---
