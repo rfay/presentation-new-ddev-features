@@ -11,6 +11,7 @@
   - New Database versions like PostGreSQL 18 show up in DDEV within days of release.
 - Support: We think we have world-class support, better than almost any commercial organization.
   - Support requests and bugs are responded to quickly in Discord and GitHub.
+- Contributor Training: We do live contributor trainings regularly and love to have your participation. These are recorded and blogged. Sign up for the monthly newsletter to make sure you know about them.
 
 ---
 
@@ -24,7 +25,7 @@
 ## Recent Features
 
 - XHGui performance profiling
-- "Generic" webserver type, used for things like FrankenPHP and native node.js apps
+- "Generic" webserver type, used for things like FrankenPHP and top-level Node.js support.
 - Add-on registry: https://addons.ddev.com/ (Showing 165 add-ons)
 - Add-ons written in PHP
 - `ddev-upsun` add-on
@@ -39,6 +40,15 @@
 - Windows installer for WSL2 and Traditional Windows
 - Even more Docker providers (Rancher Desktop for Windows, Docker Desktop for Linux, etc)
 - MySQL 8.4, MariaDB 11.8, Postgres 18
+- `ddev delete images` does better cleanup
+- Add-ons can include other add-ons.
+
+---
+
+## Governance
+
+- New Articles of Incorporation for the DDEV Foundation 501(c)(3) nonprofit
+- A formal board and governance strategy to be announced at November 5 Advisory Group Meeting. Join us for the meeting!
 
 ---
 
